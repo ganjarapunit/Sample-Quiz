@@ -1,0 +1,6 @@
+title: Punit's Portfolio
+description: A showcase of my diarisation and language teaching skills.
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
